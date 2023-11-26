@@ -1,0 +1,6 @@
+Resume Information for Mahmoud ElSayed CV.pdf:
+{'Full Name': 'Mahmoud El-Sayed', 'Phone Number': '01026932898', 'Email Address': 'me974931@gmail.com'}
+==================================================
+Resume Information for 99.pdf:
+{'Full Name': 'Mostafa Mahmoud', 'Phone Number': '01113755242', 'Email Address': 'ubermenchun@gmail.com'}
+==================================================

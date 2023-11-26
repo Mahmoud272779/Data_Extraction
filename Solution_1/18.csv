@@ -1,0 +1,101 @@
+id,Movie_Title,Genre,Director,Release_Date,Rating
+1,King Boxer: Five Fingers of Death (Tian xia di yi quan),romance,Sharlene Schulz,8/31/2008,5.5
+2,Triad Election (Election 2) (Hak se wui yi wo wai kwai),comedy,Welch Spiring,7/24/2004,5.6
+3,My Mom's New Boyfriend,action,Moss Quogan,8/4/2007,5.6
+4,13/13/13,thriller,Angelico Healy,11/22/2020,6.0
+5,Sexy Baby,drama,Ferdinanda Sugden,7/8/2012,6.4
+6,Ill Manors,drama,Farlay Fishby,7/12/2019,5.6
+7,How to Cook Your Life,action,Marnia Ofen,6/4/2022,6.2
+8,"Man with Two Brains, The",drama,Gill Haywood,7/4/2013,7.2
+9,"Sky Crawlers, The (Sukai kurora)",drama,Linus Renne,11/12/2020,9.0
+10,"Erotic Man, The",action,Harald Braidley,11/28/2019,5.1
+11,"Civil Action, A",action,Baxie Salzburg,8/16/2021,5.2
+12,Bliss,drama,Sonni Moreno,4/25/2014,7.8
+13,Wildcats,action,Silvana Skypp,4/22/2002,9.0
+14,"Story of Vernon and Irene Castle, The",romance,Yvette Graysmark,11/28/2011,9.4
+15,"Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do)",thriller,Al Eykelhof,5/5/2005,9.0
+16,Assassination,comedy,Lauralee McEwen,8/25/2021,7.9
+17,The Runner from Ravenshead,drama,Odelle Blonden,10/31/2014,9.2
+18,Floods of Fear,romance,Lesly Velasquez,8/14/2015,9.3
+19,"President's Lady, The",romance,Jermain Whaley,3/17/2008,8.8
+20,Vanilla Sky,drama,Lief De Courtney,9/18/2002,5.3
+21,EMR,romance,Rebe Percifer,12/11/2007,6.7
+22,The Hunters,romance,Hermina Ortner,9/26/2011,7.4
+23,Loser,thriller,Adi Raffles,8/9/2004,9.4
+24,No Time for Love,action,Letisha Simonian,8/18/2001,6.8
+25,My Son the Fanatic,action,Barrie Manning,2/11/2006,6.2
+26,"Party, The (Boum, La)",thriller,Kristian Taverner,9/9/2018,7.3
+27,Made in Heaven,action,Darleen Widger,11/12/2007,9.7
+28,Mr. Klein (Monsieur Klein),action,Ardra O'Rowane,1/25/2016,9.6
+29,Dhoom,thriller,Erinna Tinton,9/3/2012,5.2
+30,Moebius Redux: A Life in Pictures,action,Austine Aldam,11/20/2001,6.7
+31,"Red Shoes, The",romance,Padget Delamere,8/14/2012,6.3
+32,"Godfather, The",action,Barnaby Batisse,6/20/2007,6.9
+33,Million Dollar Mystery,romance,Morrie Blandamere,2/8/2014,9.3
+34,Metsän tarina,comedy,Drusy Malter,12/12/2005,6.6
+35,"Leading Man, The",action,Giffy Weathers,10/28/2011,6.2
+36,StarStruck,comedy,Joscelin Saulter,10/26/2003,8.4
+37,"Gathering of Old Men, A (Murder on the Bayou)",action,Alvera Koenen,11/5/2016,7.4
+38,"Mother's Courage: Talking Back to Autism, A",thriller,Gretchen Morkham,7/23/2003,7.6
+39,Underworld,thriller,Jody Massei,12/24/2021,5.4
+40,"Buccaneer, The",comedy,Chrystel Pleaden,12/1/2009,7.6
+41,Léolo,thriller,Louise Leisman,12/6/2016,7.4
+42,Topralli,romance,Darby Mawford,4/25/2004,5.7
+43,"Perfect Host, The",thriller,Wyatt Fairhall,11/28/2002,8.9
+44,"Like Father, Like Son",romance,Mariska Chasles,8/8/2016,9.4
+45,Tammy,thriller,Charita Bucher,12/1/2009,5.5
+46,Last Call at the Oasis,action,Oralia Acklands,5/5/2018,6.7
+47,"Night to Remember, A",drama,Osbourn Wyman,8/25/2008,7.8
+48,Stockholm East (Stockholm Östra),thriller,Sisely Tutchell,10/19/2015,6.5
+49,Dhoondte Reh Jaoge,action,Obadias Vignal,12/1/2017,7.0
+50,"Crystal Ball, The",thriller,Danila De La Salle,12/12/2002,7.8
+51,Hell's Kitchen,romance,Eva Josefs,2/14/2009,5.0
+52,In My Sleep,romance,Nanci Mirfield,6/2/2021,8.0
+53,The Monkey King,drama,Ashli Fulger,3/13/2014,8.0
+54,The Legend of Mor'du,romance,Orsa Horley,2/14/2019,6.9
+55,Hellraiser: Hellseeker,drama,Thekla Thorington,2/11/2020,9.3
+56,Vicky Cristina Barcelona,drama,Phillis Hegg,4/26/2002,6.4
+57,Flight of the Living Dead,romance,Ximenes Hawler,9/23/2012,7.4
+58,"Muppets, The",drama,Reynold Boerderman,1/5/2019,9.8
+59,Riders,comedy,Horton Peterffy,11/13/2006,6.5
+60,Tidal Wave,drama,Donelle Leades,8/22/2011,6.5
+61,We'll Never Have Paris,romance,Lorelei Buckles,6/26/2010,9.4
+62,Wedding Crashers,comedy,Holt Combe,3/9/2000,8.9
+63,Iron Sky,action,Antone Hindrick,5/31/2008,8.5
+64,"Seagull's Laughter, The (Mávahlátur)",action,Corey Gammons,2/28/2022,6.6
+65,Private Confessions,drama,Darrelle Yate,4/12/2005,5.7
+66,"Cabinet of Dr. Ramirez, The",comedy,Roslyn Fanstone,3/2/2003,8.8
+67,"Guide for the Married Man, A",thriller,Betta Witton,10/22/2017,5.5
+68,Greyfriars Bobby (a.k.a. Greyfriars Bobby: The True Story of a Dog),action,Shaylynn Brader,11/10/2022,9.1
+69,"Banishment, The (Izgnanie)",drama,Lonee Tomicki,10/28/2004,5.1
+70,Curse of Chucky (Child's Play 6),drama,Shay Mayston,4/27/2014,8.2
+71,Where Sleeping Dogs Lie,thriller,Rudolf Edge,7/10/2016,9.7
+72,Living Proof,action,Lonnard Brach,11/13/2017,9.7
+73,Il piccolo diavolo,comedy,Zedekiah Gosswell,4/24/2008,8.1
+74,"Yes Men Fix the World, The",romance,Delmar Soutter,7/25/2007,8.9
+75,xXx,comedy,Gilbert Scarratt,12/17/2017,8.1
+76,Stavisky...,thriller,Corly Urion,3/14/2007,8.0
+77,Atlantis: The Lost Empire,thriller,Erich Seeks,8/5/2022,7.3
+78,Oliver Twist,thriller,Cherrita Padden,5/25/2013,6.9
+79,Coming Home (Gui lai),drama,Claudelle Gatrell,7/10/2022,9.3
+80,Laura,thriller,Randa Bairstow,3/23/2015,6.9
+81,3 Idiots,drama,Alexandros Saunderson,3/16/2003,5.3
+82,Aamir,drama,Levin Pechell,7/20/2001,5.8
+83,Safe Sex,action,Hermina Greenside,5/5/2015,5.5
+84,Beyond the Poseidon Adventure,comedy,Donni Kilduff,6/11/2016,6.8
+85,"Pope of Greenwich Village, The",drama,Brennen Stolli,11/7/2007,5.1
+86,"Brothers Bloom, The",drama,Drucy Heakins,11/25/2000,7.5
+87,"Fighter, The",comedy,Boris Kemsley,6/19/2004,6.4
+88,Lunopolis,action,Berky Stolworthy,1/24/2017,7.0
+89,Cinderella II: Dreams Come True,drama,Carley Stife,7/8/2009,8.9
+90,Videodrome,thriller,Katrine Thurnham,9/12/2010,8.9
+91,"Hunter, The",action,Caresse Wilcocks,1/13/2006,7.1
+92,"Business of Fancydancing, The",action,Aurlie Guillot,6/11/2013,6.8
+93,"Story of Floating Weeds, A (Ukikusa monogatari)",thriller,Anne Valois,4/21/2019,6.8
+94,Isadora,romance,Tull Wenban,3/20/2007,7.2
+95,Into the Forest of Fireflies' Light,drama,Mora Brazur,12/27/2008,9.2
+96,Defense of the Realm,thriller,Adan Mattea,10/30/2009,5.1
+97,Jerusalem Countdown,drama,Cristal Caberas,5/5/2015,8.7
+98,"Beast, The",romance,Connie Falkous,1/13/2008,6.3
+99,It Runs in the Family,comedy,Dona Sidwick,4/3/2014,6.5
+100,Hawking,drama,Alfie Braams,7/17/2010,6.9
